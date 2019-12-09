@@ -1,0 +1,29 @@
+#addClass {
+  margin-top: 5%;
+  width: 111px;
+  height: 30px;
+  border: 1px solid white;
+  background: #909090;
+  font-size: 20px;
+}
+
+body {
+  background-color: #404040;
+}
+
+#classList {
+  background-color: #101010;
+  position: absolute;
+  width: 35%;
+  /*height: 100%;*/
+  left: 0px;
+  top: 0px;
+  bottom: 5px;
+  text-align: center;
+}
+
+#classList hr {
+  width: 98%;
+  margin-bottom: 5px;
+  border: 2px double #202020;
+}
